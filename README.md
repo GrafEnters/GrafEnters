@@ -1,41 +1,49 @@
 # Senior Unity Developer
 
-**Senior Unity Developer with 6+ years of experience, 50+ completed projects across Mobile, PC, VR, and Console platforms.**  
-Specializing in fast R&D prototyping, clean architecture, and end-to-end Unity development.
+**Unity разработчик с более чем 6 годами опыта и 50+ завершенными проектами на платформах Mobile, PC, VR и Console.**  
+Специализируюсь на быстром прототипировании, чистой архитектуре и полном цикле разработки на Unity.
 
 ---
 
-## 🛠 Key Skills & Technologies
-- **Unity** | **Team Lead** | **Architecture** | **ECS**  
-- **Multiplayer** | **Addressables** | **WebGL** | **Shader Graph**  
+## 🛠 Ключевые навыки и технологии
+- **Unity** | **Team Lead** | **Архитектура** | **ECS**  
+- **Мультиплеер** | **Addressables** | **WebGL** | **Shader Graph**  
 - **Zenject** | **UniTask** | **DOTween**
 
 ---
 
-## 💼 Experience
-- **6+ years in Unity development** from Junior to Team Lead  
-- Worked across **Mobile, PC, VR, Console, WebGL** platforms  
-- Experienced in **RnD prototypes, commercial projects, and test assignments**  
-- Strong focus on **clean code, scalable architecture, and team workflows**
+## 💼 Опыт
+- **Более 6 лет в Unity**: путь от Junior до Team Lead  
+- Опыт работы на платформах **Mobile, PC, VR, Console, WebGL**  
+- Работал с **RnD прототипами, играми с круглогодичным liveops и кроссплатформенными коммерческими проектами**  
+- Основной фокус на **чистый код, частые итерации и командные процессы**
 
 ---
 
-## 📌 Test Assignments (Clean Code & Architecture)
-1. **Project 1 Name** – Short description. [GitHub Repo](#)  
-2. **Project 2 Name** – Short description. [GitHub Repo](#)  
-3. **Project 3 Name** – Short description. [GitHub Repo](#)  
+## 📌 Тестовые задания (Чистый код и архитектура)
+1. **Название проекта 1** – Краткое описание. [Bark Moon](https://github.com/GrafEnters/barkmoon-test)  
+2. **Название проекта 2** – Краткое описание. [Space Drons](https://github.com/GrafEnters/spacedrons-test)
+3. **Название проекта 3** – Краткое описание. [CarX Td](https://github.com/GrafEnters/carxtd-test)  
 
-*(Small projects, fully structured with best practices and clear architecture.)*
-
----
-
-## 📬 Contacts
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **Telegram:** [@yourusername](#)  
-- **GitHub:** [github.com/yourusername](#)  
+*(Небольшие проекты с полной структурой, лучшими практиками и понятной архитектурой.)*
 
 ---
 
-## 📝 About Me
-I am a versatile Unity Developer with a wide range of experience. I enjoy building prototypes and full-scale projects alike, focusing on **clean code, efficient architecture, and rapid iteration**. Always eager to explore new platforms and technologies, from Mobile and PC to VR and Console.
+## 📬 Контакты
+- **Email:** graf.enters@gmail.com  
+- **LinkedIn:** [linkedin.com/in/Гоша Полищук](https://www.linkedin.com/in/%D0%B3%D0%BE%D1%88%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B8%D1%89%D1%83%D0%BA-45a63135b )  
+- **Telegram:** [@Graf_Enters](https://t.me/Graf_Enters) 
+- **Моя студия:** [github.com/yourusername](https://github.com/ZhukovskyGamesStudio)  
+
+---
+
+## 📝 О себе
+Работаю в коммерческой разработке с 2019 года.
+Являюсь основателем и главой Zhukovsky Games Studio. В активной разработке 2 мобильных и 1 ПК проект.
+Каждую неделю стараюсь играть во что-то новое. Интересуюсь **геймдизайном, аналитикой, продюсированием**. Рисую **пиксель арт**.
+Есть **несколько своих выпущенных игр** на Андроид с рекламой, аналитикой, покупками и т.д. И несколько игр на Яндекс играх. [ссылки устарели :/]
+Дважды участвовал в **GMTK GameJam** вместе со своей командой [Two Planets In Space](https://grafenters.itch.io/two-planets-in-space)
+Создавал в качестве хобби детективный VR симулятор про ручную телефонию [On the line](https://grafenters.itch.io/phoneoperator)
+**Пишу lofi-ambient музыку** для своих игр [Плейлист вк](https://vk.com/music/playlist/104139442_3)
+**Курирую начинающих разработчиков** в Калининграде [Amber Code](https://t.me/ambercode)
+Продюсирую свою игру мечты - кооперативный симулятор колонии.
