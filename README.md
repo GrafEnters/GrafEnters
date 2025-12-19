@@ -33,7 +33,7 @@
 - **Email:** graf.enters@gmail.com  
 - **LinkedIn:** [linkedin.com/in/Гоша Полищук](https://www.linkedin.com/in/%D0%B3%D0%BE%D1%88%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B8%D1%89%D1%83%D0%BA-45a63135b )  
 - **Telegram:** [@Graf_Enters](https://t.me/Graf_Enters) 
-- **Моя студия:** [github.com/yourusername](https://github.com/ZhukovskyGamesStudio)  
+- **Моя студия:** [Zhukovsky Games](https://github.com/ZhukovskyGamesStudio)  
 
 ---
 
@@ -41,7 +41,9 @@
 Работаю в коммерческой разработке с 2019 года.  
 Каждую неделю стараюсь играть во что-то новое.  
 Интересуюсь **геймдизайном, аналитикой, продюсированием**. Рисую **пиксель арт**.  
-Есть **несколько своих выпущенных игр** на Андроид с рекламой, аналитикой, покупками и т.д. И несколько игр на Яндекс играх. [ссылки устарели :/]  
+Есть **несколько своих выпущенных игр** с рекламой, аналитикой, покупками и т.д.
+[Farm Please](https://play.google.com/store/apps/details?id=pixel.farming.space.valley)  
+[Royal Block Puzzle](https://play.google.com/store/apps/details?id=royal.block.puzzle)  
 Дважды участвовал в **GMTK GameJam** вместе со своей командой [Two Planets In Space](https://grafenters.itch.io/two-planets-in-space)  
 Создавал в качестве хобби детективный VR симулятор про ручную телефонию [On the line](https://grafenters.itch.io/phoneoperator)  
 **Пишу lofi-ambient музыку** для своих игр [Плейлист вк](https://vk.com/music/playlist/104139442_3)  
