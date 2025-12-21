@@ -6,8 +6,8 @@
 ---
 
 ## 🛠 Ключевые навыки и технологии
-- **Unity** | **Team Lead** | **Архитектура** | **ECS**  
-- **Мультиплеер** | **Addressables** | **WebGL** | **Shader Graph**  
+- **Unity** | **Team Lead** | **Architecture** | **ECS**  
+- **Multiplayer** | **Addressables** | **WebGL** | **Shader Graph**  
 - **Zenject** | **UniTask** | **DOTween**
 
 ---
