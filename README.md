@@ -21,10 +21,11 @@
 ---
 
 ## 📌 Тестовые задания (Чистый код и архитектура)
-1. [Bark Moon](https://github.com/GrafEnters/barkmoon-test)  – Кликер с клиент/серверным взаимодействием. Zenject, API, WebRequest, UI
-2. [Space Drons](https://github.com/GrafEnters/spacedrons-test) - Симуляция сражающихся за ресурсы дронов. AI, Pathfinding
-3. [Prediction Td](https://github.com/GrafEnters/carxtd-test) - Tower Defense с симуляцией физики. 3dPhysics, Math
-4. [Grass Farm](https://github.com/GrafEnters/grassfarm_test) - Коси траву, продавай, улучшай. UniTask, Dotween, Leveldesign, KISS
+1. [Bark Moon](https://github.com/GrafEnters/barkmoon-test)  – Кликер с клиент/серверным взаимодействием. **Zenject, API, WebRequest, UI**.
+2. [Space Drons](https://github.com/GrafEnters/spacedrons-test) - Симуляция сражающихся за ресурсы дронов. **AI, Pathfinding**.
+3. [Prediction Td](https://github.com/GrafEnters/carxtd-test) - Tower Defense с симуляцией физики. **3dPhysics, Math**.
+4. [Grass Farm](https://github.com/GrafEnters/grassfarm_test) - Коси траву, продавай, улучшай. **UniTask, Dotween, Leveldesign, KISS**.
+5. [Moving Shapes](https://github.com/GrafEnters/movingshapes-test/tree/main) - Обозреватель фигур из файла. **SOLID, File system**.
 
 *(Небольшие проекты с полной структурой, лучшими практиками и понятной архитектурой.)*
 
