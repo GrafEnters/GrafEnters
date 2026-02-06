@@ -26,6 +26,7 @@
 3. [Prediction Td](https://github.com/GrafEnters/carxtd-test) - Tower Defense с симуляцией физики. **3dPhysics, Math**.
 4. [Grass Farm](https://github.com/GrafEnters/grassfarm_test) - Коси траву, продавай, улучшай. **UniTask, Dotween, Leveldesign, KISS**.
 5. [Moving Shapes](https://github.com/GrafEnters/movingshapes-test/tree/main) - Обозреватель фигур из файла. **SOLID, File system**.
+6. [Crates Collector](https://github.com/GrafEnters/cratescollector-test) - Инвентарь на UI Toolkit. **UI Toolkit**.
 
 *(Небольшие проекты с полной структурой, лучшими практиками и понятной архитектурой.)*
 
